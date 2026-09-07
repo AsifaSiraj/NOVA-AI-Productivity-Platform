@@ -88,6 +88,7 @@ No environment variables are required — the page is fully self-contained.
 
 ## Live Demo
 
+[**View Live Demo →**](https://novaai-chi-kohl.vercel.app)
 
 ## Component Structure
 
