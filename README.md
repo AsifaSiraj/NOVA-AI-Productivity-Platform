@@ -84,11 +84,10 @@ The site is a static-exportable single page and deploys with zero configuration:
 - **Netlify:** connect the repo, build command `npm run build`, publish directory `.next` (with the official Next.js plugin).
 - **Cloudflare Pages / GitHub Pages:** build with `npm run build` and serve via the respective Next.js adapter.
 
+No environment variables are required — the page is fully self-contained.
+
 ## Live Demo
 
-
-
-No environment variables are required — the page is fully self-contained.
 
 ## Component Structure
 
